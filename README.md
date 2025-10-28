@@ -104,3 +104,8 @@ This notebook successfully demonstrates a full **ML pipeline** for classifying N
 It can serve as a strong foundation for deeper **content recommendation** or **genre prediction** systems.
 
 ---
+
+# STREAMLIT APP
+Netflix Type Prediction App=(https://manosree30-netflix-movies-app-ykcjkq.streamlit.app/)
+
+---
